@@ -1,0 +1,14 @@
+QUESTION D
+
+** Comparing the Facebook-Ego Network with other random networks
+The facebook-ego network which is a real-world network has its degree distribution approximately modelled by a power law distribution. This makes sense because in real-world networks, most nodes have low degrees and just few outlier nodes have high degrees.
+Looking at the degree distributions of the random networks, we can observe the following;
+- Graphs generated using Watts-Strogatz model have a a degree distribution that is almost a normal distribution.
+- The graphs generated with scale-free and Barabasi-Albert model have a degree distribution following a power law distribution.
+
+The Barabasi-Albert model best approximates the Facebook-ego network. It's degree distribution follows the power law distribution and the distribution of the clustering coefficient follows the normal distribution just like that of the Facebook-Ego network.
+
+
+
+** Comparing the Twitter-Ego Network with other random networks
+Looking at the Twitter-Ego network, we can see the degree distribution is negatively skewed. None of the random networks we have constructed approximates such a degree distribution.
