@@ -1,0 +1,25 @@
+NAME: MICHAEL MBAJWA
+STUDENT NUMBER: 0210152807
+
+
+QUESTION 1A
+Number of nodes in Facebook Network: 168
+Number of edges in Facebook Network: 1656
+
+Number of nodes in Twitter Network: 129
+Number of edges in Twitter Network: 8037
+
+
+QUESTION 1B
+The maximum degree of the Facebook Network is: 77
+The average degree of the Facebook Network is: 19.714285714285715
+
+The maximum degree of the Twitter Network is: 205
+The average degree of the Twitter Network is: 124.6046511627907
+
+
+QUESTION 1C
+Please refer to python code
+
+** Why do we need adjacency matrix to describe the structure of the network?
+When we do not have a large number of nodes, we can use an Adjacency matrices to quickly check if there is an edge between two nodes.
