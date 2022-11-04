@@ -22,4 +22,5 @@ QUESTION 1C
 Please refer to python code
 
 ** Why do we need adjacency matrix to describe the structure of the network?
-When we do not have a large number of nodes, we can use an Adjacency matrices to quickly check if there is an edge between two nodes.
+When we do not have a large number of nodes, we can use an Adjacency matrices to quickly check (in constant time) if there is an edge between two nodes.
+- We can add or delete an edge from a graph in constant time.
