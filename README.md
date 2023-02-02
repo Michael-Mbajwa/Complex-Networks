@@ -1,5 +1,7 @@
-# Complex-Networks
-### My dataset for this course is Dataset 5
+Analysis of facebook and graph twitter networks.
 
-Repo for MA_DS-21 Assignments
-
+These tasks were inspired by assignments from this class:
+```
+Complex Networks
+Master of Data Science ~ University of Luxembourg
+```
